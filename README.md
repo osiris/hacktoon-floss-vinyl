@@ -1,10 +1,16 @@
 ---
 title: Thinkpad HackToon FLOSS Vinyl by OSiUX
-date: 2022-04-22
+date: 2026-05-29
 author: Osiris Alejandro Gomez osiux@osiux.com
 ---
 
 # Thinkpad HackToon FLOSS Vinyl by OSiUX
+
+## `v03`
+
+[![](tmb/thinkpad-hacktoon-floss-vinyl-t14-amd.jpg)](file:img/thinkpad-hacktoon-floss-vinyl-t14.jpg)
+
+## `v02`
 
 [![](tmb/thinkpad-hacktoon-floss-vinyl-t14.jpg)](file:img/thinkpad-hacktoon-floss-vinyl-t14.jpg)
 
